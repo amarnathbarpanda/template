@@ -1,0 +1,39 @@
+.Header{
+    width: 100%;
+    height: 10%;
+    background: var(--clr-primary);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.logo{
+    width: 15%;
+    font-weight: 600;
+}
+.logo span:first-child{
+    color: rgb(247, 206, 23);
+}
+.logo span:last-child{
+    color: var(--clr-secondary);
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--white);
+    width: 40%;
+}
+.menu li{
+    list-style: none;
+}
+
+.others{
+    width: 10%;
+}
+.fa-circle-user{
+    font-size: 2rem;
+    color: gray;
+}
