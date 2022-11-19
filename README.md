@@ -1,3 +1,14 @@
+# SCREENING TASK | FRONTEND DEVELOPER | DIGIPPLUS
+- Templates are created using ReactJs, CSS, and Font Awsome Icons.
+
+# Steps to Run the App
+- Clone the project from github.
+- Open the project in VS Code or any IDE.
+- Open terminal and run `npm install`.
+- Finally run the command `npm start` to see the project in the browser.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
