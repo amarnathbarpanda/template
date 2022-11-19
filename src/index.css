@@ -7,8 +7,9 @@
 }
 
 :root{
-  --clr-primary: #130f40;
+  --clr-primary: #231c74;
   --clr-secondary: #e97414;
+  --clr-accent: #dbb91f;
 
   --primary: black;
   --white: white;
